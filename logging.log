@@ -1,0 +1,14 @@
+2016-07-14 15:00:05 INFO  AnnotationConfigApplicationContext:581 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4cdf35a9: startup date [Thu Jul 14 15:00:05 EEST 2016]; root of context hierarchy
+2016-07-14 15:00:06 INFO  LogAspect:16 - Log Aspect. Method: operationProvider is called
+2016-07-14 15:00:06 INFO  LogAspect:16 - Log Aspect. Method: afterSingletonsInstantiated is called
+2016-07-14 15:00:06 INFO  LogAspect:16 - Log Aspect. Method: parser is called
+2016-07-14 15:00:06 INFO  LogAspect:16 - Log Aspect. Method: operationExecutor is called
+2016-07-14 15:00:11 INFO  LogAspect:16 - Log Aspect. Method: parseExpression is called
+2016-07-14 15:00:11 INFO  LogAspect:16 - Log Aspect. Method: getOperations is called
+2016-07-14 15:00:11 INFO  LogAspect:16 - Log Aspect. Method: getOperator is called
+2016-07-14 15:00:11 INFO  LogAspect:16 - Log Aspect. Method: getOperator is called
+2016-07-14 15:00:11 INFO  LogAspect:16 - Log Aspect. Method: getOperator is called
+2016-07-14 15:00:11 INFO  LogAspect:16 - Log Aspect. Method: getOperands is called
+2016-07-14 15:00:11 INFO  LogAspect:16 - Log Aspect. Method: getOperands is called
+2016-07-14 15:00:11 INFO  LogAspect:16 - Log Aspect. Method: getOperator is called
+2016-07-14 15:00:11 INFO  LogAspect:16 - Log Aspect. Method: executeOperation is called
